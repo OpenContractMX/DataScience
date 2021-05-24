@@ -3,3 +3,6 @@ contratacionesabiertas_bulk.json.zip
 CsvData
 
 .DS_Store
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
